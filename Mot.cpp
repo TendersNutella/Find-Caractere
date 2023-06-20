@@ -5,7 +5,6 @@ void Mot::begin()
 	char caractere = mot[0];
 
 	std::cout << "Le premier caractere est : " << caractere << std::endl;
-
 }
 
 void Mot::end()
