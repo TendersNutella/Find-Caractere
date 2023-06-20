@@ -11,6 +11,7 @@ private:
 	std::string mot;
 public:
 	void begin();
+	void middle();
 	void end();
 
 	Mot(std::string mot);
